@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vilppes
 - 👀 I’m interested in accessibility and AI
-- 🌱 I’m currently learning bluetooth functionalities
+- 🌱 I’m currently learning bluetooth functionalities [notes here](https://github.com/vilppes/notes-on-learning-bluetooth)
 - 💞️ I’m looking to collaborate on accessibility projects
 - 📫 Reach me by email: pessiv@outlook.com
 
